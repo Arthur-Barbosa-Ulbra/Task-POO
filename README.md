@@ -13,8 +13,8 @@ Este repositório contém soluções para as atividades propostas, desenvolvidas
 #### Como executar:
 
 ```
-javac CalculadoraDesconto.java
-java CalculadoraDesconto
+javac CalculatorDesc.java
+java CalculatorDesc
 ```
 
 ### 2. Calculadora de ITBI
@@ -26,8 +26,8 @@ java CalculadoraDesconto
 #### Como executar:
 
 ```
-javac CalculadoraITBI.java
-java CalculadoraITBI
+javac CalculatorITBI.java
+java CalculatorITBI
 ```
 
 ### 3. Sistema de Avaliação
@@ -39,8 +39,8 @@ java CalculadoraITBI
 #### Como executar:
 
 ```
-javac SistemaDeAvaliacao.java
-java SistemaDeAvaliacao
+javac Avaliation.java
+java Avaliation
 ```
 
 ### 4. Calculadora de Aposentadoria
@@ -52,8 +52,8 @@ java SistemaDeAvaliacao
 #### Como executar:
 
 ```
-javac CalculadoraAposentadoria.java
-java CalculadoraAposentadoria
+javac Retirement.java
+java Retirement
 ```
 
 ### 5. Circuito de Resistências
@@ -65,8 +65,8 @@ java CalculadoraAposentadoria
 #### Como executar:
 
 ```
-javac CircuitoDeResistencias.java
-java CircuitoDeResistencias
+javac Resistence.java
+java Resistence
 ```
 
 ### 6. Sistema de Login
@@ -78,8 +78,8 @@ java CircuitoDeResistencias
 #### Como executar:
 
 ```
-javac SistemaDeLogin.java
-java SistemaDeLogin
+javac Login.java
+java Login
 ```
 
 ### 7. Gerador de Tabuada
@@ -91,8 +91,8 @@ java SistemaDeLogin
 #### Como executar:
 
 ```
-javac GeradorDeTabuada.java
-java GeradorDeTabuada
+javac Multiplication.java
+java Multiplication
 ```
 
 ### Estrutura do Repositório
